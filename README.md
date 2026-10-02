@@ -41,7 +41,7 @@ poduct-inventory/
 ## Tech Stack
 
 - Frontend: React, JavaScript, CSS
-- Backend/data layer: Python, SQLAlchemy, Pydantic
+- Backend/data layer: Python, SQLAlchemy, Pydantic, FastAPI
 - Database: SQLite (`products.db`)
 
 ## Features
